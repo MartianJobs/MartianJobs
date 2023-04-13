@@ -1,8 +1,8 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1580149777924325377/1679489030/1500x500)
 <h1 align="center">Hi 👋, I'm Eyob</h1>
-<h3 align="center">A passionate Tech Enthusiast and an aspiring Software Engineering student at ALX SE from Ethiopia.</h3> 
+<h3 align="center">A passionate Ethiopian Tech Enthusiast and an aspiring Software Engineering student at ALX SE Africa.</h3> 
 <h3 align="center">I'm also a Medical Doctor practicing as a Junior General Practitioner.</h3>
-<h3></h3>
+<h3>~</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 

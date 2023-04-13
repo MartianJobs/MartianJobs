@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/basazinew_eyob" target="blank"><img src="https://img.shields.io/twitter/follow/basazinew_eyob?logo=twitter&style=for-the-badge" alt="basazinew_eyob" /></a> </p>
 
-- 🌱 I’m currently learning **C programming Language basics and Beyond**
+- 🌱 I’m currently learning **C programming Language Basics and Beyond**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@eyobbasazinew)
 
